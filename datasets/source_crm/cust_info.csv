@@ -1,0 +1,16 @@
+cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create_date
+1,AW00011000,Jon,Yang,M,M,2022-01-15
+2,AW00011001,Eugene,Huang,S,M,2022-02-10
+3,AW00011002,Ruben,Torres,M,M,2022-03-05
+4,AW00011003,Christy,Zhu,S,F,2022-03-20
+5,AW00011004,Elizabeth,Johnson,M,F,2022-04-11
+6,AW00011005,Julio,Ruiz,S,M,2022-05-01
+7,AW00011006,Janet,Alvarez,M,F,2022-05-19
+8,AW00011007,Marco,Mehta,S,M,2022-06-08
+9,AW00011008,Rob,Verhoff,M,M,2022-07-14
+10,AW00011009,Shannon,Carlson,S,F,2022-08-03
+11,AW00011010,Jacquelyn,Suarez,M,F,2022-08-28
+12,AW00011011,Curtis,Lu,S,M,2022-09-15
+13,AW00011012,Lauren,Walker,M,F,2022-10-07
+14,AW00011013,Ian,Jenkins,S,M,2022-10-25
+15,AW00011014,Sydney,Bennett,M,F,2022-11-12

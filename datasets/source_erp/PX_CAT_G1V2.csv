@@ -1,0 +1,21 @@
+id,cat,subcat,maintenance
+CO,Bikes,Mountain Bikes,Yes
+CO,Bikes,Road Bikes,Yes
+CO,Bikes,Touring Bikes,Yes
+CO,Components,Handlebars,No
+CO,Components,Headsets,No
+CO,Components,Mountain Frames,No
+CO,Components,Road Frames,No
+CO,Accessories,Bike Stands,No
+CO,Accessories,Bottles and Cages,No
+CO,Accessories,Cleaners,No
+CO,Accessories,Helmets,Yes
+CO,Accessories,Locks,No
+CO,Accessories,Panniers,No
+CO,Clothing,Caps,No
+CO,Clothing,Gloves,No
+CO,Clothing,Jerseys,No
+CO,Clothing,Shorts,No
+CO,Clothing,Socks,No
+CO,Clothing,Tights,No
+CO,Clothing,Vests,No
